@@ -1,6 +1,6 @@
 {
   "name": "react-todo-mannylist",
-  "homepage": "https://github.com/mademarc/react-todo-mannylist", 
+  "homepage": "https://github.com/mademarc/react-todo-mannylist/", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
